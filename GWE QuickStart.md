@@ -6,7 +6,6 @@
 <h1 id="gwe-messenger-user-guide-">GWE Messenger User Guide <img src="https://i.imgur.com/mdsInxb.gif" alt="logo"></h1>
 <p>Author: Devin DiStefano<br>
 Version: Edited for portfolio</p>
-<hr>
 <h2 id="introduction">Introduction</h2>
 <h3 id="scope-and-purpose">Scope and Purpose</h3>
 <p>GWE Messenger (also known as 모두 talk) is the successor to KWE Messenger, the district-wide messaging client for Gangwon-do.</p>
@@ -165,8 +164,9 @@ Version: Edited for portfolio</p>
 <em>Alternatively, right click the name and select <strong>Instant Message</strong></em><br>
 <img src="https://i.imgur.com/wsmQMLo.png" alt="Instant message start"><br>
 <em>Figure 3.3.1</em></li>
-<li>Type your message in the box then Click <strong>Send</strong>.</li>
+<li>Type your message in the box then Click <strong>Send</strong>.<br>
+<img src="https://i.imgur.com/buNZCVv.png" alt="enter image description here"><br>
+<em>Figure 3.3.1</em></li>
 </ol>
-<p><img src="https://i.imgur.com/buNZCVv.png" alt="enter image description here"><br>
-<em>Figure 3.3.1</em></p>
+<h1 id="end-of-sample">End of Sample</h1>
 
