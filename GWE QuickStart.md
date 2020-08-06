@@ -167,5 +167,6 @@ Version: Edited for portfolio</p>
 <em>Figure 3.3.1</em></li>
 <li>Type your message in the box then Click <strong>Send</strong>.</li>
 </ol>
-<p><img src="https://i.imgur.com/buNZCVv.png" alt="enter image description here"></p>
+<p><img src="https://i.imgur.com/buNZCVv.png" alt="enter image description here"><br>
+<em>Figure 3.3.1</em></p>
 
